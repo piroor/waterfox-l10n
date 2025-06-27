@@ -268,6 +268,9 @@ tabs-toolbar-toggle-tree-vertical-tabs =
     .label = Tree Vertical Tabs
     .tooltiptext-open = Toggle Tree Vertical Tabs
 
+sidebar-tree-vertical-tabs =
+    .label = Tree Vertical Tabs
+
 pane-tree-title = Tree Vertical Tabs
 category-tree =
     .tooltiptext = { pane-tree-title }
