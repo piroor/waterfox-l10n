@@ -262,7 +262,10 @@ tabbrowser-confirm-session-restore-checkbox = Open previous windows and tabs
 ## Tree Vertical Tabs
 
 sidebar-tree-vertical-tabs =
-    .label = Tree Vertical Tabs
+    .label = Tree vertical tabs
+
+browser-layout-tree-vertical-tabs =
+    .label = Tree vertical tabs
 
 pane-tree-title = Tree Vertical Tabs
 category-tree =
